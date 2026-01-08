@@ -1,0 +1,6 @@
+classes = 26
+train = /storage/data2/kdimitrop/darknet_files_yolo/final/train.txt
+valid = /storage/data2/kdimitrop/darknet_files_yolo/final/val.txt
+names = /storage/data2/kdimitrop/darknet_files_yolo/final/obj.names
+backup = /storage/data2/kdimitrop/darknet_files_yolo/final/backup
+
